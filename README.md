@@ -24,3 +24,7 @@
 - [MicroPython For NovaPI](https://github.com/Makeblock-official/micropython-api-doc/tree/master/docs/novapi/modules/modules).
 
 - [Makeblock Officail Materials](https://grabcad.com/library/data-of-makeblock-parts-1).
+
+<h3> The rewards </h3>
+ 
+Even we didn't go through the semi-finals round but we got an Excellent Presentation Awards as the result.
